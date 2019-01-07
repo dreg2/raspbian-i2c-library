@@ -1,0 +1,7 @@
+# ignored files
+*.a
+*.o
+*.i
+*.s
+i2c_test
+
